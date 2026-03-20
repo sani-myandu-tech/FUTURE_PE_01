@@ -1,8 +1,6 @@
 PROMPT ENGINEERING LOG
 
----
-
-🔹 ITERATION 1: MASTER PROMPT (INITIAL GENERATION)
+> ITERATION 1: MASTER PROMPT (INITIAL GENERATION)
 
 Act as a professional website copywriter and conversion expert.
 
@@ -38,9 +36,8 @@ Ensure content is clear, persuasive, and ready for a eal website.
 
  Purpose: Generate the initial version of the website copy.
 
----
 
-🔹 ITERATION 2: IMPROVEMENT PROMPT (QUALITY ENHANCEMENT)
+> ITERATION 2: IMPROVEMENT PROMPT (QUALITY ENHANCEMENT)
 
 Improve the previous website copy by:
 
@@ -54,9 +51,8 @@ Make it sound like a premium, real business website.
 
  Purpose: Enhance quality, SEO, and conversion effectiveness.
 
----
 
-🔹 ITERATION 3: FINAL REFINEMENT PROMPT (POLISHING STAGE)
+> ITERATION 3: FINAL REFINEMENT PROMPT (POLISHING STAGE)
 
 Act as a senior conversion copywriter optimizing high-performing website content.
 
