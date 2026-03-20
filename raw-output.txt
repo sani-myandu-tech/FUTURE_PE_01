@@ -1,0 +1,45 @@
+RAW OUTPUT (INITIAL AI GENERATION)
+
+---
+
+> HOMEPAGE COPY
+
+Headline:
+Affordable Gourmet Food in Durban
+
+Sub-headline:
+Great meals for students and professionals without high prices
+
+Intro:
+Urban Bites Café offers affordable meals in Durban. We serve fresh food quickly, making it perfect for busy people who want quality without spending too much.
+
+---
+
+> SERVICES
+
+1. Gourmet Meals
+   We provide a variety of meals made with fresh ingredients at affordable prices.
+
+2. Express Lunch
+   Quick meals served in under 15 minutes for busy customers.
+
+3. Coffee & Drinks
+   We offer coffee and beverages for all tastes.
+
+---
+
+> CALL TO ACTION (CTA)
+
+Visit us today or book your table now.
+
+---
+
+> NOTES (INITIAL OBSERVATION)
+
+* Content is clear but basic
+* Lacks emotional appeal and strong branding
+* CTAs are not very persuasive
+* No strong value proposition
+* Limited SEO optimization
+
+ This version represents the first AI-generated output before prompt refinement.
