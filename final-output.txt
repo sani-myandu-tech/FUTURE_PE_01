@@ -1,0 +1,26 @@
+Act as a senior conversion copywriter optimizing high-performing website content.
+Your task is to refine it to elite level by improving clarity, sharpness, and conversion impact without changing the overall structure or meaning.
+Apply the following improvements:
+1. CONCISENESS & READABILITY
+* Shorten long paragraphs into tighter, punchier sentences
+* Break complex sentences into 1–2 lines for easier scanning
+* Keep the tone modern and fast to read (mobile-friendly)
+1. CTA MICROCOPY OPTIMIZATION
+* Rewrite CTAs to be sharper and more action-driven
+* Add friction-reducing language (e.g., “in 30 seconds”, “skip the wait”)
+* Strengthen urgency where appropriate (e.g., “before it sells out”, “limited spots today”)
+1. PUNCHIER VALUE STATEMENTS
+* Make key lines more impactful and memorable
+* Replace any soft or generic phrasing with bold, benefit-driven wording
+1. NATURAL FLOW IMPROVEMENT
+* Ensure transitions between sentences feel smooth
+* Remove any slightly awkward or overly long phrasing
+1. PRESERVE STRENGTHS
+* Keep the strong headline and structure unchanged
+* Maintain the brand tone (friendly, modern, student-focused)
+* Do NOT remove SEO keywords — keep them natural
+1. FINAL QUALITY CHECK
+* Ensure the copy feels premium, clean, and client-ready
+* Make it sound like top-tier agency work
+* Avoid adding unnecessary length — focus on precision
+Return ONLY the improved version.
