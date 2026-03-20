@@ -17,6 +17,29 @@ The objective of this project was to design a structured prompt system capable o
 
 A three-stage structured prompt framework was developed to guide the content generation process. The first stage, the Master Prompt, was designed to produce the initial draft of the website content, covering the homepage, services, and call-to-action sections. The second stage, the Improvement Prompt, focused on refining this output by enhancing emotional appeal, strengthening the value proposition, and integrating local search engine optimisation keywords such as "Durban café" and "affordable food Durban". The third stage, the Final Refinement Prompt, aimed to improve overall clarity and readability through sentence shortening, increased impact, and optimisation of call-to-action microcopy to support higher conversion rates.
 
+This project uses a structured 3-step prompt refinement process:
+
+1. Initial Generation
+   Produces a basic version of website copy using a structured prompt.
+
+2. Improvement Prompt
+   Enhances the content by adding emotional appeal, SEO keywords, and stronger value propositions.
+
+3. Final Refinement
+   Optimizes readability, clarity, and conversion strength using shorter sentences and stronger CTA microcopy.
+
+This iterative approach ensures the final output is high-quality, realistic, and ready for real business use.
+
+## Key Improvements Observed
+
+* Stronger and clearer value proposition
+* More persuasive and action-driven CTAs
+* Improved readability and flow
+* Addition of local SEO keywords (Durban café, affordable food Durban)
+
+This demonstrates how prompt engineering can significantly improve AI-generated content quality.
+
+
 ## Output Summary
 
 The artificial intelligence system generated a complete set of website copy tailored for a café in Durban targeting students and young professionals. The final output included a strong value proposition, clear service descriptions, high-converting call-to-action sections, and content optimised for local search engine visibility.
