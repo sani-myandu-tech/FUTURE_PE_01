@@ -1,0 +1,72 @@
+PROMPT ENGINEERING LOG
+
+---
+
+🔹 ITERATION 1: MASTER PROMPT (INITIAL GENERATION)
+
+Act as a professional website copywriter and conversion expert.
+
+Your task is to generate high-quality website copy for a local business.
+
+Business Details:
+
+* Business Name: Urban Bites Café
+* Business Type: Cafe
+* Location: Durban
+* Target Audience: Students and young professionals
+* Unique Selling Point: Affordable gourmet meals with fast service and a modern vibe
+
+Requirements:
+
+1. Homepage Copy
+
+* Headline
+* Sub-headline
+* Intro paragraph
+
+2. Services Section
+
+* List 3–5 services with descriptions and benefits
+
+3. CTA Section
+
+* Booking CTA
+* Contact CTA
+* Urgency CTA
+
+Ensure content is clear, persuasive, and ready for a eal website.
+
+ Purpose: Generate the initial version of the website copy.
+
+---
+
+🔹 ITERATION 2: IMPROVEMENT PROMPT (QUALITY ENHANCEMENT)
+
+Improve the previous website copy by:
+
+* Strengthening the value proposition
+* Adding emotional appeal
+* Improving CTA clarity and urgency
+* Adding local SEO keywords (Durban café, affordable food Durban, etc.)
+* Removing generic or robotic phrases
+
+Make it sound like a premium, real business website.
+
+ Purpose: Enhance quality, SEO, and conversion effectiveness.
+
+---
+
+🔹 ITERATION 3: FINAL REFINEMENT PROMPT (POLISHING STAGE)
+
+Act as a senior conversion copywriter optimizing high-performing website content.
+
+Refine the content by:
+
+* Making sentences shorter and more punchy
+* Improving readability for mobile users
+* Strengthening CTA microcopy (e.g., “takes 30 seconds”, “skip the wait”)
+* Enhancing flow and removing any awkward phrasing
+
+Do not change structure — only improve clarity, impact, and conversion strength. Purpose: Final polish to achieve high-conversion, professional-level output.
+
+---
